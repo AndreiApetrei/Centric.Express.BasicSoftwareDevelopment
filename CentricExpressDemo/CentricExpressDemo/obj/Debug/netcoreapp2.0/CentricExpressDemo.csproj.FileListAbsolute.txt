@@ -1,0 +1,11 @@
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\bin\Debug\netcoreapp2.0\CentricExpressDemo.deps.json
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\bin\Debug\netcoreapp2.0\CentricExpressDemo.runtimeconfig.json
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\bin\Debug\netcoreapp2.0\CentricExpressDemo.runtimeconfig.dev.json
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\bin\Debug\netcoreapp2.0\CentricExpressDemo.dll
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\bin\Debug\netcoreapp2.0\CentricExpressDemo.pdb
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\obj\Debug\netcoreapp2.0\CentricExpressDemo.csprojResolveAssemblyReference.cache
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\obj\Debug\netcoreapp2.0\CentricExpressDemo.csproj.CoreCompileInputs.cache
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\obj\Debug\netcoreapp2.0\CentricExpressDemo.AssemblyInfoInputs.cache
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\obj\Debug\netcoreapp2.0\CentricExpressDemo.AssemblyInfo.cs
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\obj\Debug\netcoreapp2.0\CentricExpressDemo.dll
+E:\Projects\dotNET\CentricExpressDemo\CentricExpressDemo\obj\Debug\netcoreapp2.0\CentricExpressDemo.pdb
