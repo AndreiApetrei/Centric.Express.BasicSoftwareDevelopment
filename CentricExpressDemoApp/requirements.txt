@@ -1,0 +1,8 @@
+Create a C# Console Application which simulates an online store.
+Your application should be able to store products of type Game, TShirt, Puzzle and ComicBook.
+
+As a user, you should be able to see a list of the available products in the console.
+As a user, you should be able to add an item to your cart by typing its name in the console.
+As a user, you should be able to finish your order and get an email notification (theoretically).
+
+The implementations should make good use of OOP, SOLID and everything else you learned in this session.
