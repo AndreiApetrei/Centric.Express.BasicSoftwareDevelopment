@@ -6,3 +6,4 @@ As a user, you should be able to add an item to your cart by typing its name in 
 As a user, you should be able to finish your order and get an email notification (theoretically).
 
 The implementations should make good use of OOP, SOLID and everything else you learned in this session.
+Also, you should provide unit tests to your implementation.
